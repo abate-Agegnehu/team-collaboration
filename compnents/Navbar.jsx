@@ -3,7 +3,9 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-      Navbar add new thing on git feature of navbar demo test
+     <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum quo nostrum cumque explicabo iusto tempore sequi consectetur deleniti reprehenderit! Quibusdam animi doloribus totam provident. Laudantium hic fuga corrupti asperiores atque?
+     </p>
     </div>
   )
 }
